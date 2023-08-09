@@ -1,6 +1,8 @@
 tornado==5.1.1
+# TODO: upgrade tornado
+# tornado==6.3.2
 requests
 opentelemetry-exporter-otlp
 opentelemetry-propagator-b3
 simplejson
-protobuf==3.20.*
+protobuf==4.24.*
